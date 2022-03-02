@@ -1,0 +1,23 @@
+*{
+  background-color:burlywood;
+}
+h1{
+  font-family: Lato;
+  color: blueviolet;
+  margin-left: 10mm;
+}
+p {
+  font-family: Lato;
+
+}
+
+#display{
+  margin-left: 10mm;
+  background-color: pink;
+  
+}
+#inputspace{
+  margin-left: 10mm;
+  border-radius: 90mm;
+  border-color: blue;
+}
